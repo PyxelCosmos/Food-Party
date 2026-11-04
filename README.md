@@ -45,7 +45,7 @@ These descriptions summarise the work at a system level; specific implementation
 
 ## Screenshots and demo
 
-**Browser demo:** Not yet published — link to be added after the WebGL build is tested and uploaded to itch.io.  
+**Browser demo:** [Play on itch.io](https://pyxel-cosmos.itch.io/food-party)
 **Gameplay video:** Planned.  
 **Screenshots:** To be added.
 
