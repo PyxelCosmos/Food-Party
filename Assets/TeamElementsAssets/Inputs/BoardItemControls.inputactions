@@ -1,0 +1,79 @@
+{
+    "name": "BoardItemControls",
+    "maps": [
+        {
+            "name": "General",
+            "id": "9912fb09-0e76-449e-90f6-bce987528c11",
+            "actions": [
+                {
+                    "name": "Cancel",
+                    "type": "Button",
+                    "id": "bbd6c90d-d8f8-4f69-b671-129687453031",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Use",
+                    "type": "Button",
+                    "id": "50b46a01-e300-4fe2-a71b-0b6343003e34",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f5459547-a4db-4aa1-8fec-462bb3e1a909",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Cancel",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "83f1db02-e636-4d5e-80dd-078fe49ef126",
+                    "path": "<Keyboard>/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Use",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "RottenTomato",
+            "id": "af65e696-dfba-4b3b-ad91-88cceb68dc71",
+            "actions": [
+                {
+                    "name": "Charge",
+                    "type": "Button",
+                    "id": "367a238a-8d40-4836-93d0-61bc8d573175",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2f3f35c1-bdf1-42ff-8acf-080e76552bce",
+                    "path": "<Keyboard>/c",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Charge",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
