@@ -49,9 +49,15 @@ These descriptions summarise the work at a system level; specific implementation
 
 **Gameplay video:** [![Watch the Food Party Gameplay Demo here!](docs/screenshots/thumbnail.png)](https://youtu.be/8mlMaiC_rDQ)
 
-**Screenshots:** To be added.
+**Screenshots:**
 
-> Before publication, replace these placeholders with working links and images. A short walkthrough of the first turn and one minigame would help new visitors understand the game quickly.
+<p align=center>
+   <img src="docs/screenshots/s1.png" width="300"/>
+   <img src="docs/screenshots/s2.png" width="300"/>
+   <img src="docs/screenshots/s3.png" width="300"/>
+   <img src="docs/screenshots/s4.png" width="300"/>
+   <img src="docs/screenshots/s5.png" width="300"/>
+</p>
 
 ## Open the project in Unity
 
