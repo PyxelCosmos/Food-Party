@@ -46,7 +46,9 @@ These descriptions summarise the work at a system level; specific implementation
 ## Screenshots and demo
 
 **Browser demo:** [Play on itch.io](https://pyxel-cosmos.itch.io/food-party)
-**Gameplay video:** Planned.  
+
+**Gameplay video:** Planned.
+
 **Screenshots:** To be added.
 
 > Before publication, replace these placeholders with working links and images. A short walkthrough of the first turn and one minigame would help new visitors understand the game quickly.
