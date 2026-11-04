@@ -47,7 +47,7 @@ These descriptions summarise the work at a system level; specific implementation
 
 **Browser demo:** [Play on itch.io](https://pyxel-cosmos.itch.io/food-party)
 
-**Gameplay video:** [![Watch the Food Party Gameplay Demo here!](docs/screenshots/thumbnail.jpg)](https://youtu.be/8mlMaiC_rDQ)
+**Gameplay video:** [![Watch the Food Party Gameplay Demo here!](docs/screenshots/thumbnail.png)](https://youtu.be/8mlMaiC_rDQ)
 
 **Screenshots:** To be added.
 
